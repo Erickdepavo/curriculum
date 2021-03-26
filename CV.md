@@ -35,8 +35,8 @@ Nací el 17 de octubre de 2002 (tengo 18 años) en Culiacán, Sinaloa. Desde muy
 * **Phone Widget** – 2020 – [Descargar](https://apps.apple.com/us/app/phone-widget/id1537333783)
 
 ### HABILIDADES Y CONOCIMIENTOS
-* [Swift](swift.org) – iOS Dev
-* [React](reactjs.org) – Web Dev
-* [Sketch](sketch.com) – UI Design
+* [Swift](https://swift.org) – iOS Dev
+* [React](https://reactjs.org) – Web Dev
+* [Sketch](https://sketch.com) – UI Design
 
-Haz clic [aquí](erickdepavo.github.io) para visitar mi sitio web personal.
+Haz clic [aquí](https://erickdepavo.github.io) para visitar mi sitio web personal.
