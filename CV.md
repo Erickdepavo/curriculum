@@ -28,6 +28,7 @@ Nací el 17 de octubre de 2002 (tengo 18 años) en Culiacán, Sinaloa. Desde muy
 * **Enrútate** – 2018-19
 * **Enrútate Empresarial** – 2020
 * **Rastrea** – 2020
+* **BinBit** – 2021
 
 ### PROYECTOS PERSONALES
 * **Taxcon** – 2017 – [Descargar](https://apps.apple.com/us/app/taxcon/id1317537747)
