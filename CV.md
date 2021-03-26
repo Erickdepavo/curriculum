@@ -7,4 +7,4 @@ Nací el 17 de octubre de 2002 (tengo 18 años) en Culiacán, Sinaloa. Desde muy
 * **PrepaTec Sinaloa**
 Preparatoria (2017-2020) 
 * **Ingeniero en Tecnologías Computacionales (ITC)**
-Tecnológico de Monterrey Sinaloa (2020-) 
+Tecnológico de Monterrey Sinaloa (2020-)
